@@ -1,0 +1,40 @@
+{
+  "page": 1,
+  "total_pages": 1,
+  "total_results": 3,
+  "results": [
+    {
+      "id": 201,
+      "name": "Station Echo",
+      "overview": "Operators of a deep-space relay station uncover transmissions from timelines that have not happened yet.",
+      "poster_path": "/poster_echo.jpg",
+      "backdrop_path": "/backdrop_echo.jpg",
+      "vote_average": 8.6,
+      "vote_count": 3210,
+      "popularity": 402.1,
+      "first_air_date": "2023-09-15"
+    },
+    {
+      "id": 202,
+      "name": "Harbor Watch",
+      "overview": "Coastal guardians track storms that carry memories instead of rain.",
+      "poster_path": "/poster_harbor_watch.jpg",
+      "backdrop_path": "/backdrop_harbor_watch.jpg",
+      "vote_average": 7.7,
+      "vote_count": 890,
+      "popularity": 156.4,
+      "first_air_date": "2022-04-01"
+    },
+    {
+      "id": 203,
+      "name": "Echo Chamber",
+      "overview": "Podcast hosts realize their interviews are answering questions from the future.",
+      "poster_path": "/poster_chamber.jpg",
+      "backdrop_path": "/backdrop_chamber.jpg",
+      "vote_average": 7.3,
+      "vote_count": 640,
+      "popularity": 132.0,
+      "first_air_date": "2021-11-18"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "page": 1,
+  "total_pages": 2,
+  "total_results": 12,
+  "results": [
+    {
+      "id": 101,
+      "title": "Nebula Drift",
+      "overview": "A pilot charts a course through collapsing star lanes to reunite a scattered crew.",
+      "poster_path": "/poster_nebula.jpg",
+      "backdrop_path": "/backdrop_nebula.jpg",
+      "vote_average": 8.4,
+      "vote_count": 2140,
+      "popularity": 312.5,
+      "release_date": "2024-05-10",
+      "media_type": "movie"
+    },
+    {
+      "id": 102,
+      "title": "Harbor Lights",
+      "overview": "Two strangers keep meeting on the same night ferry and rewriting their futures.",
+      "poster_path": "/poster_harbor.jpg",
+      "backdrop_path": "/backdrop_harbor.jpg",
+      "vote_average": 7.9,
+      "vote_count": 980,
+      "popularity": 188.1,
+      "release_date": "2023-11-02",
+      "media_type": "movie"
+    },
+    {
+      "id": 103,
+      "title": "Glass Kingdom",
+      "overview": "An architect discovers her blueprints are reshaping the city in impossible ways.",
+      "poster_path": "/poster_glass.jpg",
+      "backdrop_path": "/backdrop_glass.jpg",
+      "vote_average": 7.2,
+      "vote_count": 640,
+      "popularity": 140.4,
+      "release_date": "2022-08-19",
+      "media_type": "movie"
+    },
+    {
+      "id": 104,
+      "title": "Quiet Frequency",
+      "overview": "A radio engineer intercepts a signal that predicts tomorrow's headlines.",
+      "poster_path": "/poster_quiet.jpg",
+      "backdrop_path": "/backdrop_quiet.jpg",
+      "vote_average": 8.1,
+      "vote_count": 1522,
+      "popularity": 210.0,
+      "release_date": "2024-01-14",
+      "media_type": "movie"
+    },
+    {
+      "id": 105,
+      "title": "Copper Horizon",
+      "overview": "Prospectors race across a desert that expands every nightfall.",
+      "poster_path": "/poster_copper.jpg",
+      "backdrop_path": "/backdrop_copper.jpg",
+      "vote_average": 6.8,
+      "vote_count": 410,
+      "popularity": 96.3,
+      "release_date": "2021-03-28",
+      "media_type": "movie"
+    },
+    {
+      "id": 106,
+      "title": "Paper Moons",
+      "overview": "A forger of rare books is hired to recreate a manuscript that never existed.",
+      "poster_path": "/poster_paper.jpg",
+      "backdrop_path": "/backdrop_paper.jpg",
+      "vote_average": 7.6,
+      "vote_count": 870,
+      "popularity": 133.7,
+      "release_date": "2020-09-09",
+      "media_type": "movie"
+    },
+    {
+      "id": 107,
+      "title": "Midnight Atlas",
+      "overview": "Cartographers map dreams that spill into waking streets.",
+      "poster_path": "/poster_atlas.jpg",
+      "backdrop_path": "/backdrop_atlas.jpg",
+      "vote_average": 8.0,
+      "vote_count": 1904,
+      "popularity": 255.2,
+      "release_date": "2023-06-21",
+      "media_type": "movie"
+    },
+    {
+      "id": 108,
+      "title": "Ember Protocol",
+      "overview": "A firefighter joins a covert unit that extinguishes fires before they start.",
+      "poster_path": "/poster_ember.jpg",
+      "backdrop_path": "/backdrop_ember.jpg",
+      "vote_average": 7.4,
+      "vote_count": 723,
+      "popularity": 167.8,
+      "release_date": "2022-12-01",
+      "media_type": "movie"
+    },
+    {
+      "id": 109,
+      "title": "Silver Orchard",
+      "overview": "A family orchard produces fruit that unlocks forgotten memories.",
+      "poster_path": "/poster_silver.jpg",
+      "backdrop_path": "/backdrop_silver.jpg",
+      "vote_average": 7.1,
+      "vote_count": 512,
+      "popularity": 121.0,
+      "release_date": "2019-04-17",
+      "media_type": "movie"
+    },
+    {
+      "id": 110,
+      "title": "Cascade Code",
+      "overview": "Hackers chase a cascading exploit that rewrites city infrastructure overnight.",
+      "poster_path": "/poster_cascade.jpg",
+      "backdrop_path": "/backdrop_cascade.jpg",
+      "vote_average": 7.8,
+      "vote_count": 1340,
+      "popularity": 201.6,
+      "release_date": "2024-07-07",
+      "media_type": "movie"
+    },
+    {
+      "id": 111,
+      "title": "Northern Static",
+      "overview": "A weather station picks up voices trapped inside polar storms.",
+      "poster_path": "/poster_northern.jpg",
+      "backdrop_path": "/backdrop_northern.jpg",
+      "vote_average": 8.2,
+      "vote_count": 1688,
+      "popularity": 240.9,
+      "release_date": "2023-02-11",
+      "media_type": "movie"
+    },
+    {
+      "id": 112,
+      "title": "Velvet Circuit",
+      "overview": "A dancer and an android engineer stage a show that blurs flesh and machine.",
+      "poster_path": "/poster_velvet.jpg",
+      "backdrop_path": "/backdrop_velvet.jpg",
+      "vote_average": 7.5,
+      "vote_count": 905,
+      "popularity": 176.4,
+      "release_date": "2021-10-30",
+      "media_type": "movie"
+    }
+  ]
+}

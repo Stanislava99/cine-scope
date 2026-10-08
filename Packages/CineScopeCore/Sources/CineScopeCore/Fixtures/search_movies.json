@@ -1,0 +1,51 @@
+{
+  "page": 1,
+  "total_pages": 1,
+  "total_results": 4,
+  "results": [
+    {
+      "id": 101,
+      "title": "Nebula Drift",
+      "overview": "A pilot charts a course through collapsing star lanes to reunite a scattered crew.",
+      "poster_path": "/poster_nebula.jpg",
+      "backdrop_path": "/backdrop_nebula.jpg",
+      "vote_average": 8.4,
+      "vote_count": 2140,
+      "popularity": 312.5,
+      "release_date": "2024-05-10"
+    },
+    {
+      "id": 104,
+      "title": "Quiet Frequency",
+      "overview": "A radio engineer intercepts a signal that predicts tomorrow's headlines.",
+      "poster_path": "/poster_quiet.jpg",
+      "backdrop_path": "/backdrop_quiet.jpg",
+      "vote_average": 8.1,
+      "vote_count": 1522,
+      "popularity": 210.0,
+      "release_date": "2024-01-14"
+    },
+    {
+      "id": 110,
+      "title": "Cascade Code",
+      "overview": "Hackers chase a cascading exploit that rewrites city infrastructure overnight.",
+      "poster_path": "/poster_cascade.jpg",
+      "backdrop_path": "/backdrop_cascade.jpg",
+      "vote_average": 7.8,
+      "vote_count": 1340,
+      "popularity": 201.6,
+      "release_date": "2024-07-07"
+    },
+    {
+      "id": 107,
+      "title": "Midnight Atlas",
+      "overview": "Cartographers map dreams that spill into waking streets.",
+      "poster_path": "/poster_atlas.jpg",
+      "backdrop_path": "/backdrop_atlas.jpg",
+      "vote_average": 8.0,
+      "vote_count": 1904,
+      "popularity": 255.2,
+      "release_date": "2023-06-21"
+    }
+  ]
+}

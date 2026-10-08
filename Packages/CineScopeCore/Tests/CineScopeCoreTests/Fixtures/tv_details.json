@@ -1,0 +1,55 @@
+{
+  "id": 201,
+  "name": "Station Echo",
+  "overview": "Operators of a deep-space relay station uncover transmissions from timelines that have not happened yet.",
+  "tagline": "Every signal has a sender.",
+  "poster_path": "/poster_echo.jpg",
+  "backdrop_path": "/backdrop_echo.jpg",
+  "vote_average": 8.6,
+  "vote_count": 3210,
+  "popularity": 402.1,
+  "first_air_date": "2023-09-15",
+  "number_of_seasons": 2,
+  "number_of_episodes": 16,
+  "status": "Returning Series",
+  "homepage": "https://example.com/station-echo",
+  "original_language": "en",
+  "genres": [
+    { "id": 10765, "name": "Sci-Fi & Fantasy" },
+    { "id": 18, "name": "Drama" }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "id": 701,
+        "name": "Lila Cho",
+        "character": "Commander Hart",
+        "profile_path": "/cast_lila.jpg",
+        "order": 0
+      },
+      {
+        "id": 702,
+        "name": "Owen Briggs",
+        "character": "Tech Lead Quinn",
+        "profile_path": "/cast_owen.jpg",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "id": 801,
+        "name": "Nora Kim",
+        "job": "Director",
+        "department": "Directing",
+        "profile_path": "/crew_nora.jpg"
+      },
+      {
+        "id": 802,
+        "name": "Sam Reed",
+        "job": "Writer",
+        "department": "Writing",
+        "profile_path": "/crew_sam.jpg"
+      }
+    ]
+  }
+}

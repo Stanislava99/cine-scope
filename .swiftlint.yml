@@ -1,0 +1,62 @@
+disabled_rules:
+  - trailing_whitespace
+
+opt_in_rules:
+  - empty_count
+  - empty_string
+  - fatal_error_message
+  - force_unwrapping
+  - force_try
+  - force_cast
+  - overridden_super_call
+
+excluded:
+  - Packages/CineScopeCore/.build
+  - Packages
+  - DerivedData
+  - Artifacts
+  - .swiftpm
+  - CineScopeUITests
+
+included:
+  - CineScope
+
+line_length:
+  warning: 120
+  error: 150
+  ignores_comments: true
+  ignores_urls: true
+
+type_body_length:
+  warning: 300
+  error: 400
+
+file_length:
+  warning: 500
+  error: 800
+
+function_body_length:
+  warning: 80
+  error: 120
+
+cyclomatic_complexity:
+  warning: 12
+  error: 18
+
+force_unwrapping: error
+force_try: error
+force_cast: error
+
+identifier_name:
+  min_length:
+    warning: 2
+  excluded:
+    - id
+    - x
+    - y
+    - to
+
+nesting:
+  type_level: 3
+
+reporter: xcode

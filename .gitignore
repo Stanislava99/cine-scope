@@ -1,0 +1,27 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/CineScopeCore/.build/
+
+# Secrets
+Config/Secrets.xcconfig
+
+# macOS
+.DS_Store
+
+# XCFramework output
+Artifacts/
+
+# SwiftLint
+.swiftlintcache
