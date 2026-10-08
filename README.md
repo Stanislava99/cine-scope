@@ -1,8 +1,7 @@
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c1a38a9d-b51a-45e8-9e79-ed6a7c87ff7b" width="220" alt="Trending" />
-  <img src="https://github.com/user-attachments/assets/ceed66b2-6157-4a64-adc8-f607423257c5" width="220" alt="Details" />
-  <img src="https://github.com/user-attachments/assets/09af7efe-30a8-4feb-b4de-f3d674d5c69f" width="220" alt="Search" />
+  <img width="220" alt="Trending" src="https://github.com/user-attachments/assets/acd5f306-41c1-49e7-b22f-b1c3822eaac7" />
+  <img width="220" alt="Favorites" src="https://github.com/user-attachments/assets/39a7eea0-106f-4ae6-907b-954550b45273" />
+  <img width="220" alt="Details" src="https://github.com/user-attachments/assets/f0813100-9690-494a-bfe9-afbd84b81841" />
 </p>
 
 # CineScope
